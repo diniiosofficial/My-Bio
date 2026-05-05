@@ -1,3 +1,30 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,020617&height=200&section=header&text=Dini&fontSize=60&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20•%20Reverse%20Engineering%20•%20Automation&descAlignY=60&descColor=94a3b8" />
+
+</div>
+
+---
+
+## About
+
+I design and build low-level systems, automation pipelines, and tooling with a strong focus on performance, control, and reliability.
+
+My work focuses on:
+- Android internals and native environments  
+- Reverse engineering and system-level analysis  
+- Scalable automation and backend tooling  
+
+---
+
+## Core Expertise
+
+
+Reverse Engineering Android / Native (.so)
+Automation Engineering Python-based systems & tooling
+System Internals Memory analysis & low-level behavior
+Backend Development FastAPI / Flask
+
 
 ---
 
