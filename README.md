@@ -1,85 +1,21 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on advanced Android tools, reverse engineering & automation systems  <br>🤝 I’m looking to collaborate on powerful Python projects, Telegram bots & developer tools  <br>🧠 I’m exploring low-level stuff like native libraries, memory patching & system internals  <br>💬 Ask me about Python, automation, reverse engineering, or bot development  <br>⚡ I prefer building things from scratch instead of using ready-made solutions  <br>🔥 Fun fact: I break systems to understand them better — then rebuild them smarter
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00ff41,003300&height=200&section=header&text=dini.x&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=systems%20engineer%20%7C%20reverse%20engineer%20%7C%20automation%20architect&descAlignY=60&descColor=00cc33)
 
-<!-- animated SVG typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=I+break+systems+to+understand+them.;Then+I+rebuild+them+smarter.;Android+internals+%F0%9F%94%8D;Memory+patching+%F0%9F%A7%A0;Automation+at+scale+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dini.x__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diniiosofficial@gmail.com) 
 
-<br/>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat-square&logo=glitch&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=diniiosofficial&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=diniiosofficial&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=diniiosofficial&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Visits](https://komarev.com/ghpvc/?username=diniiosofficial&color=00ff41&style=flat-square&label=INTRUSIONS)](https://github.com/diniiosofficial)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/@dini.x__)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:diniiosofficial@gmail.com)
-
-</div>
-
----
-
-```bash
-$ whoami
-> dini.x — systems engineer, reverse engineer, automation architect
-```
-
-```python
-class DiniX:
-    location     = "in the terminal"
-    focus        = ["Android internals", "reverse engineering", "automation at scale"]
-    building     = "advanced Android tools + Telegram bots + Python toolchains"
-    philosophy   = "build from scratch. always."
-    fun_fact     = "I patch memory for fun"
-```
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=diniiosofficial&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=diniiosofficial&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=00ff41,003300&height=3)
-
-## `> cat skills.txt`
-
-```
-[SYSTEMS]       C · C++ · Java · Lua · CMake · Arduino
-[SCRIPTING]     Python · Selenium · Telegram Bot API
-[WEB/API]       FastAPI · Django · Flask · Node.js · HTML5
-[DATABASES]     MongoDB · MySQL · SQLite
-[INFRA]         Nginx · Cloudflare · Vercel · Render · Netlify · Glitch
-[ML/DATA]       PyTorch · Pandas
-[TOOLING]       Git · GitHub · Windows Terminal
-[SPECIALTY]     Native libs · Memory patching · APK reversing · System internals
-```
-
----
-
-## `> cat stats.log`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=diniiosofficial&theme=matrix&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak](https://streak-stats.demolab.com/?user=diniiosofficial&theme=matrix&hide_border=true)
-
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=diniiosofficial&theme=matrix&hide_border=true&layout=compact&count_private=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diniiosofficial&theme=matrix&hide_border=true&area=true)
-
-</div>
-
----
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=00ff41,003300&height=3)
-
-## `> cat collabs.txt`
-
-```
-looking for:  Python projects · Telegram bots · dev tools · RE work
-not looking:  ready-made solutions. i build my own.
-contact:      diniiosofficial@gmail.com
-```
-
----
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=00ff41,003300&height=120&section=footer&animation=fadeIn)
-
-<sub>[ system online ] — built from scratch, always</sub>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
